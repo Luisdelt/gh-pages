@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  align-items: center;
+  flex-direction: row;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background: #359030;
+  background: -webkit-linear-gradient(to right, #FFFFFF, #ffffff);  
+  background: linear-gradient(to right, #030c56, #030c56); 
+  margin: auto;
+}
+
+.form-principal{
+  width: 100%;
+  max-width: 1500px;
+  background-color: rgb(0, 0, 0);
+  box-sizing: border-box;
+}
+
